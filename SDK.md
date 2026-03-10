@@ -19,6 +19,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes |
 
 **Pros:** Full Office + PDF suite at zero cost if eligible. 1,600+ UI components included. Support and updates included.
+
 **Cons:** Must re-qualify annually. Not native Swift — uses .NET MAUI or JavaScript WebView rendering. Outgrowing eligibility triggers paid licensing.
 
 **Reference Links:**
@@ -47,6 +48,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 **Supported Annotations:** Highlight, Underline, Strikethrough, Ink (freehand), FreeText, Sticky Note, Stamp, Line, Square, Circle, Link
 
 **Pros:** Zero dependency. Native performance. Built-in to iOS. Excellent for PDF viewing and annotation.
+
 **Cons:** PDF only — no Office format support. No digital signatures (PKCS#7). No redaction. No form filling beyond basic interactions.
 
 **Reference Links:**
@@ -93,6 +95,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes |
 
 **Pros:** Industry-leading PDF SDK. Excellent documentation. Native performance. All PDF features (annotations, signatures, redaction, forms, editing). Active development.
+
 **Cons:** PDF only — no Office editing. Premium pricing.
 
 **Reference Links:**
@@ -116,6 +119,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes |
 
 **Pros:** Full PDF feature set. Established company. Good cross-platform support.
+
 **Cons:** PDF only. Pricing varies significantly by feature tier.
 
 **Reference Links:**
@@ -139,6 +143,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes |
 
 **Pros:** Can convert Office → PDF for viewing without a server. Full PDF editing. Offline-capable. Strong annotation support.
+
 **Cons:** Office documents are converted to PDF for viewing — no native Office editing. Custom pricing (typically premium).
 
 **Reference Links:**
@@ -164,6 +169,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 **Includes:** PDF Viewer SDK, DOCX Editor SDK, Spreadsheet Editor SDK, Document Processing Libraries (Word, Excel, PowerPoint, PDF).
 
 **Pros:** Comprehensive Office + PDF suite. Competitive pricing. 1,600+ components. Good documentation.
+
 **Cons:** Not native Swift — uses .NET MAUI or JavaScript WebView. WebView-based editing may feel less native.
 
 **Reference Links:**
@@ -181,6 +187,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes |
 
 **Pros:** Strong document generation and processing. PDF viewer available. Excel-compatible spreadsheet component.
+
 **Cons:** Primarily server-side document processing. No visual DOCX/XLSX editor UI for mobile. .NET dependency.
 
 **Reference Links:**
@@ -205,6 +212,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes |
 
 **Pros:** Widest format support. Excellent document generation/conversion. Mature and reliable.
+
 **Cons:** Primarily server-side processing. No mobile editing UI — you get APIs to create/modify files, not visual editors. Heavy runtime.
 
 **Reference Links:**
@@ -233,6 +241,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes |
 
 **Pros:** Full native mobile office suite SDK. Closest drop-in replacement for Artifex SmartOffice SDK. Used by Samsung, LG, and other OEMs. Complete DOCX/XLSX/PPTX/PDF editing with native UI.
+
 **Cons:** Custom pricing — must contact sales. Korean company — documentation may be limited in English.
 
 **Reference Links:**
@@ -254,6 +263,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes |
 
 **Pros:** Powers the WPS Office app (1B+ installs worldwide). Very mature editing engine. Full-featured word processor, spreadsheet, and presentation editor. Native iOS performance.
+
 **Cons:** Custom pricing. Chinese company — potential data/privacy concerns for some markets. SDK availability may require partnership agreement.
 
 **Reference Links:**
@@ -276,6 +286,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes |
 
 **Pros:** Full office editing suite. Used by Korean government and enterprises. Supports HWP (Korean standard format) in addition to Microsoft Office formats.
+
 **Cons:** Custom pricing. Primarily focused on Korean market. Limited international presence.
 
 **Reference Links:**
@@ -297,6 +308,7 @@ A comprehensive comparison of every SDK available for document editing (PDF + Of
 | **App Store Safe** | ✅ Yes (with commercial license) |
 
 **Pros:** LibreOffice-based rendering — excellent document fidelity. Can run on-device (no server required). Proven technology.
+
 **Cons:** WebView-based — not fully native. Requires paid commercial license for App Store distribution. Performance may lag behind native SDKs.
 
 **Reference Links:**
